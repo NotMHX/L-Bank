@@ -1,0 +1,58 @@
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-Bank\L-Bank\L-Bank\bin\Debug\net6.0\L-Bank.exe
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-Bank\L-Bank\L-Bank\bin\Debug\net6.0\L-Bank.deps.json
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-Bank\L-Bank\L-Bank\bin\Debug\net6.0\L-Bank.runtimeconfig.json
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-Bank\L-Bank\L-Bank\bin\Debug\net6.0\L-Bank.dll
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-Bank\L-Bank\L-Bank\bin\Debug\net6.0\L-Bank.pdb
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-Bank\L-Bank\L-Bank\obj\Debug\net6.0\L-Bank.GeneratedMSBuildEditorConfig.editorconfig
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-Bank\L-Bank\L-Bank\obj\Debug\net6.0\L-Bank.AssemblyInfoInputs.cache
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-Bank\L-Bank\L-Bank\obj\Debug\net6.0\L-Bank.AssemblyInfo.cs
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-Bank\L-Bank\L-Bank\obj\Debug\net6.0\L-Bank.csproj.CoreCompileInputs.cache
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-Bank\L-Bank\L-Bank\obj\Debug\net6.0\L-Bank.dll
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-Bank\L-Bank\L-Bank\obj\Debug\net6.0\refint\L-Bank.dll
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-Bank\L-Bank\L-Bank\obj\Debug\net6.0\L-Bank.pdb
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-Bank\L-Bank\L-Bank\obj\Debug\net6.0\L-Bank.genruntimeconfig.cache
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-Bank\L-Bank\L-Bank\obj\Debug\net6.0\ref\L-Bank.dll
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\bin\Debug\net6.0\L-Bank.exe
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\bin\Debug\net6.0\L-Bank.deps.json
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\bin\Debug\net6.0\L-Bank.runtimeconfig.json
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\bin\Debug\net6.0\L-Bank.dll
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\bin\Debug\net6.0\L-Bank.pdb
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\obj\Debug\net6.0\L-Bank.csproj.AssemblyReference.cache
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\obj\Debug\net6.0\L-Bank.GeneratedMSBuildEditorConfig.editorconfig
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\obj\Debug\net6.0\L-Bank.AssemblyInfoInputs.cache
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\obj\Debug\net6.0\L-Bank.AssemblyInfo.cs
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\obj\Debug\net6.0\L-Bank.csproj.CoreCompileInputs.cache
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\obj\Debug\net6.0\L-Bank.csproj.CopyComplete
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\obj\Debug\net6.0\L-Bank.dll
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\obj\Debug\net6.0\refint\L-Bank.dll
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\obj\Debug\net6.0\L-Bank.pdb
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\obj\Debug\net6.0\L-Bank.genruntimeconfig.cache
+E:\rcs\svn-itschool\M223\trunk\TO\Auftraege\LA_223_1005_DieL-BankProgramm\L-Bank_L\L-Bank\obj\Debug\net6.0\ref\L-Bank.dll
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\bin\Debug\net6.0\L-Bank.exe
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\bin\Debug\net6.0\L-Bank.deps.json
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\bin\Debug\net6.0\L-Bank.runtimeconfig.json
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\bin\Debug\net6.0\L-Bank.dll
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\bin\Debug\net6.0\L-Bank.pdb
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\obj\Debug\net6.0\L-Bank.csproj.AssemblyReference.cache
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\obj\Debug\net6.0\L-Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\obj\Debug\net6.0\L-Bank.AssemblyInfoInputs.cache
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\obj\Debug\net6.0\L-Bank.AssemblyInfo.cs
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\obj\Debug\net6.0\L-Bank.csproj.CoreCompileInputs.cache
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\obj\Debug\net6.0\L-Bank.csproj.CopyComplete
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\obj\Debug\net6.0\L-Bank.dll
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\obj\Debug\net6.0\refint\L-Bank.dll
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\obj\Debug\net6.0\L-Bank.pdb
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\obj\Debug\net6.0\L-Bank.genruntimeconfig.cache
+C:\Users\Michael Schule\Desktop\BBB\Jahr 3\Mittwoch\3. 223\L-Bank\L-Bank\obj\Debug\net6.0\ref\L-Bank.dll
